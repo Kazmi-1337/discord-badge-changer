@@ -12,9 +12,9 @@ Usage :
 
 House:
 
-**1 = Bravery
-2 = Brilliance
-3 = Balance**
+**/ 1 = Bravery
+/ 2 = Brilliance
+/ 3 = Balance**
 
 **Credit**
 Kazmi#1337
