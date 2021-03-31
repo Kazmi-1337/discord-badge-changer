@@ -1,14 +1,14 @@
 
-You can change your Hypesquad in 4 seconds now !
+You can change your Hypesquad in 2 seconds now !
 
 Installation
 Use the package manager pip to install requests.
 
-pip install requests
+**pip install requests**
 
 Usage :
 
-python hypesquad.py
+**python hypesquad.py**
 
 House:
 
@@ -16,5 +16,5 @@ House:
 2 = Brilliance
 3 = Balance
 
-Credit
+**Credit**
 Kazmi#1337
